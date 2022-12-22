@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\bin\Debug\date.txt
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\bin\Debug\Hex_Viewer_.exe.config
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\bin\Debug\Hex_Viewer_.exe
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\bin\Debug\Hex_Viewer_.pdb
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\obj\Debug\Hex_Viewer_.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\obj\Debug\Hex_Viewer_.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\obj\Debug\Hex_Viewer_.Form1.resources
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\obj\Debug\Hex_Viewer_.Properties.Resources.resources
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\obj\Debug\Hex_Viewer_.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\obj\Debug\Hex_Viewer_.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\obj\Debug\Hex_Viewer_.exe
+C:\Users\user\Desktop\C# Things\Hex_Viewer_\Hex_Viewer_\obj\Debug\Hex_Viewer_.pdb
