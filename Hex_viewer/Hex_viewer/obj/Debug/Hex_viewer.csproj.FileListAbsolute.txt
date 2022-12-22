@@ -1,8 +1,0 @@
-C:\Users\user\Desktop\C# Things\Hex_viewer\Hex_viewer\bin\Debug\Hex_viewer.exe.config
-C:\Users\user\Desktop\C# Things\Hex_viewer\Hex_viewer\bin\Debug\Hex_viewer.exe
-C:\Users\user\Desktop\C# Things\Hex_viewer\Hex_viewer\bin\Debug\Hex_viewer.pdb
-C:\Users\user\Desktop\C# Things\Hex_viewer\Hex_viewer\obj\Debug\Hex_viewer.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\C# Things\Hex_viewer\Hex_viewer\obj\Debug\Hex_viewer.csproj.SuggestedBindingRedirects.cache
-C:\Users\user\Desktop\C# Things\Hex_viewer\Hex_viewer\obj\Debug\Hex_viewer.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\C# Things\Hex_viewer\Hex_viewer\obj\Debug\Hex_viewer.exe
-C:\Users\user\Desktop\C# Things\Hex_viewer\Hex_viewer\obj\Debug\Hex_viewer.pdb
